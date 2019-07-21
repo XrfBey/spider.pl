@@ -1,4 +1,4 @@
-# Saldırı Scripti Spider.pl
+# Saldırı Scripti Spiderman.pl
 
 # Download
 
@@ -8,9 +8,9 @@ apt install git perl
 # _____________
 git clone https://github.com/XrfBey/spider.pl.git
 # _____________
-cd saldiri-scripti/
+cd spiderman.pl
 # _____________
-perl Batman.pl
+perl spiderman.pl
 
 
 # XRF BEY
