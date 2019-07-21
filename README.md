@@ -6,7 +6,7 @@ apt update && apt upgrade
 # _____________
 apt install git perl
 # _____________
-git clone https://github.com/ZeuSlayer/saldiri-scripti.git
+git clone https://github.com/XrfBey/spider.pl.git
 # _____________
 cd saldiri-scripti/
 # _____________
